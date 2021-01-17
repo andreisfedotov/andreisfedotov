@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching Angular app on emulator without Android Studio](https://dev.to/koscheyscrag/launching-angular-app-on-emulator-without-android-studio-k8m)
+- [Notes - How to become a Product Manager](https://dev.to/koscheyscrag/notes-how-to-become-a-product-manager-5ele)
+- [How to install Android emulator without installing Android Studio](https://dev.to/koscheyscrag/how-to-install-android-emulator-without-installing-android-studio-3lce)
+- [Shell script that finds all files which correspond to a given template](https://dev.to/koscheyscrag/shell-script-that-finds-all-files-which-correspond-to-a-given-template-57di)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
