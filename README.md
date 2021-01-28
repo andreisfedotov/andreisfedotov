@@ -11,6 +11,10 @@ Work too: [NonStop](https://github.com/nonstopteam) & [Platinum](https://github.
 - [Notes - How to become a Product Manager](https://dev.to/koscheyscrag/notes-how-to-become-a-product-manager-5ele)
 - [How to install Android emulator without installing Android Studio](https://dev.to/koscheyscrag/how-to-install-android-emulator-without-installing-android-studio-3lce)
 - [Shell script that finds all files which correspond to a given template](https://dev.to/koscheyscrag/shell-script-that-finds-all-files-which-correspond-to-a-given-template-57di)
+- [Back to 1969 or Introduction to Ed - old-school text editor](https://dev.to/koscheyscrag/back-to-1969-or-introduction-to-ed-old-school-text-editor-ffo)
+- [Fix of Angular-cli 'JavaScript heap out of memory' error while running 'ng serve'](https://dev.to/koscheyscrag/fix-of-angular-cli-javascript-heap-out-of-memory-error-while-running-ng-serve--1jjh)
+- [How to join several commits into one?](https://dev.to/koscheyscrag/how-to-join-several-commits-into-one-323j)
+- [Git: How to delete all local branches except master](https://dev.to/koscheyscrag/git-how-to-delete-all-branches-except-master-2pi0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
