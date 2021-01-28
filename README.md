@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrei Fedotov</h1>
 <h3 align="center">Software Developer</h3>
+
 Work: [Epam](https://www.epam.com) & [Thomson Reuters](https://www.thomsonreuters.com)
 
-Work too:
-- Developing a mobile app and participating in hackathons at @nonstopteam
-- Developing a task-tracker app and recording talk talks at @platinum-team
+Work too: [NonStop](https://github.com/nonstopteam) & [Platinum](https://github.com/platinum-team) & [Взлёт](https://www.vzlet-nvr.ru/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,9 +20,6 @@ Work too:
 <a href="https://www.youtube.com/channel/UCaYoieSTqFQopO9H1ed8GJA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucayoiestqfqopo9h1ed8gja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andrei-fedotov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrei-fedotov/" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koscheyscrag&label=Profile%20views&color=0e75b6&style=flat" alt="koscheyscrag" /> </p>
-
-<p align="left"> <a href="https://twitter.com/koscheyscrag" target="blank"><img src="https://img.shields.io/twitter/follow/koscheyscrag?logo=twitter&style=for-the-badge" alt="koscheyscrag" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -59,6 +55,8 @@ Work too:
   <p align="left">
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-  
-  
   </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koscheyscrag&label=Profile%20views&color=0e75b6&style=flat" alt="koscheyscrag" /> </p>
+
+<p align="left"> <a href="https://twitter.com/koscheyscrag" target="blank"><img src="https://img.shields.io/twitter/follow/koscheyscrag?logo=twitter&style=for-the-badge" alt="koscheyscrag" /></a> </p>
