@@ -7,20 +7,20 @@ Work too: [NonStop](https://github.com/nonstopteam) & [Platinum](https://github.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Launching Angular app on emulator without Android Studio](https://dev.to/koscheyscrag/launching-angular-app-on-emulator-without-android-studio-k8m)
-- [Notes - How to become a Product Manager](https://dev.to/koscheyscrag/notes-how-to-become-a-product-manager-5ele)
-- [How to install Android emulator without installing Android Studio](https://dev.to/koscheyscrag/how-to-install-android-emulator-without-installing-android-studio-3lce)
-- [Shell script that finds all files which correspond to a given template](https://dev.to/koscheyscrag/shell-script-that-finds-all-files-which-correspond-to-a-given-template-57di)
-- [Back to 1969 or Introduction to Ed - old-school text editor](https://dev.to/koscheyscrag/back-to-1969-or-introduction-to-ed-old-school-text-editor-ffo)
-- [Fix of Angular-cli 'JavaScript heap out of memory' error while running 'ng serve'](https://dev.to/koscheyscrag/fix-of-angular-cli-javascript-heap-out-of-memory-error-while-running-ng-serve--1jjh)
-- [How to join several commits into one?](https://dev.to/koscheyscrag/how-to-join-several-commits-into-one-323j)
-- [Git: How to delete all local branches except master](https://dev.to/koscheyscrag/git-how-to-delete-all-branches-except-master-2pi0)
+- [Launching Angular app on emulator without Android Studio](https://dev.to/andreisfedotov/launching-angular-app-on-emulator-without-android-studio-k8m)
+- [Notes - How to become a Product Manager](https://dev.to/andreisfedotov/notes-how-to-become-a-product-manager-5ele)
+- [How to install Android emulator without installing Android Studio](https://dev.to/andreisfedotov/how-to-install-android-emulator-without-installing-android-studio-3lce)
+- [Shell script that finds all files which correspond to a given template](https://dev.to/andreisfedotov/shell-script-that-finds-all-files-which-correspond-to-a-given-template-57di)
+- [Back to 1969 or Introduction to Ed - old-school text editor](https://dev.to/andreisfedotov/back-to-1969-or-introduction-to-ed-old-school-text-editor-ffo)
+- [Fix of Angular-cli 'JavaScript heap out of memory' error while running 'ng serve'](https://dev.to/andreisfedotov/fix-of-angular-cli-javascript-heap-out-of-memory-error-while-running-ng-serve--1jjh)
+- [How to join several commits into one?](https://dev.to/andreisfedotov/how-to-join-several-commits-into-one-323j)
+- [Git: How to delete all local branches except master](https://dev.to/andreisfedotov/git-how-to-delete-all-branches-except-master-2pi0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/koscheyscrag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="koscheyscrag" height="30" width="40" /></a>
-<a href="https://dev.to/koscheyscrag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="koscheyscrag" height="30" width="40" /></a>
+<a href="https://twitter.com/andreisfedotov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andreisfedotov" height="30" width="40" /></a>
+<a href="https://dev.to/andreisfedotov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="andreisfedotov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCaYoieSTqFQopO9H1ed8GJA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucayoiestqfqopo9h1ed8gja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andrei-fedotov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrei-fedotov/" height="30" width="40" /></a>
 </p>
@@ -61,6 +61,6 @@ Work too: [NonStop](https://github.com/nonstopteam) & [Platinum](https://github.
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
   </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koscheyscrag&label=Profile%20views&color=0e75b6&style=flat" alt="koscheyscrag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreisfedotov&label=Profile%20views&color=0e75b6&style=flat" alt="andreisfedotov" /> </p>
 
-<p align="left"> <a href="https://twitter.com/koscheyscrag" target="blank"><img src="https://img.shields.io/twitter/follow/koscheyscrag?logo=twitter&style=for-the-badge" alt="koscheyscrag" /></a> </p>
+<p align="left"> <a href="https://twitter.com/andreisfedotov" target="blank"><img src="https://img.shields.io/twitter/follow/andreisfedotov?logo=twitter&style=for-the-badge" alt="andreisfedotov" /></a> </p>
