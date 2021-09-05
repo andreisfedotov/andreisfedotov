@@ -3,7 +3,7 @@
 
 Work: [Epam](https://www.epam.com) & [Thomson Reuters](https://www.thomsonreuters.com)
 
-Work too: [NonStop](https://github.com/nonstopteam) & [Platinum](https://github.com/platinum-team) & [Взлёт](https://www.vzlet-nvr.ru/)
+Work too: [NonStop](https://github.com/nonstop-dev-studio) & [Platinum](https://github.com/platinum-team) & [Взлёт](https://www.vzlet-nvr.ru/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
