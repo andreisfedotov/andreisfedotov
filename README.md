@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Andrei Fedotov</h1>
+<h1 align="center">Andrei Fedotov</h1>
 <h3 align="center">Software Developer</h3>
 
 I've been working at [Epam](https://www.epam.com) on [Thomson Reuters](https://www.thomsonreuters.com)'s projects
