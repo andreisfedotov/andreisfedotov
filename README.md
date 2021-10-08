@@ -1,8 +1,6 @@
 <h1 align="center">Andrei Fedotov</h1>
 <h3 align="center">Software Developer</h3>
 
-I've been working at [Epam](https://www.epam.com) on [Thomson Reuters](https://www.thomsonreuters.com)'s projects
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [List of C# 9 features](https://dev.to/andreisfedotov/list-of-c-9-features-1eao)
