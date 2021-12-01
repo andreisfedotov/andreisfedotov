@@ -3,7 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What's new in C# 10? New features of C# 10](https://dev.to/andreisfedotov/whats-new-in-c-10-new-features-of-c-10-15lo)
+- [What&#39;s new in C# 10? New features of C# 10](https://dev.to/andreisfedotov/whats-new-in-c-10-new-features-of-c-10-15lo)
 - [List of C# 9 features](https://dev.to/andreisfedotov/list-of-c-9-features-1eao)
 - [C# Ranges and Indexes](https://dev.to/andreisfedotov/c-ranges-and-indexes-1nig)
 - [How to create a new folder in visual studio - keyboard shortcuts](https://dev.to/andreisfedotov/how-to-create-a-new-folder-in-visual-studio-keyboard-shortcuts-2fn4)
