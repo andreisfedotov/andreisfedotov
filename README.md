@@ -19,7 +19,7 @@
 <a href="https://twitter.com/andreisfedotov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andreisfedotov" height="30" width="40" /></a>
 <a href="https://dev.to/andreisfedotov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="andreisfedotov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCaYoieSTqFQopO9H1ed8GJA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucayoiestqfqopo9h1ed8gja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrei-fedotov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrei-fedotov/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrei-fedotov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andrei-fedotov/" height="30" width="40" /></a>
 </p>
 
   <p align="left">
