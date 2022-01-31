@@ -1,5 +1,6 @@
 <h1 align="center">Andrei Fedotov</h1>
 <h3 align="center">Software Developer</h3>
+![Andrei's stat](https://github-readme-stats.vercel.app/api?username=andreisfedotov&show_icons=true)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
