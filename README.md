@@ -1,4 +1,4 @@
-![Andrei's stat](https://github-readme-stats.vercel.app/api?username=andreisfedotov&show_icons=true)
+![Andrei's stat](https://github-readme-stats.vercel.app/api?username=andreisfedotov&show_icons=true&theme=dark)
 
 
 ### Blogs posts
