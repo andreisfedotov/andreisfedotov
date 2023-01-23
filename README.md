@@ -17,5 +17,3 @@
 - [Shell script that finds all files which correspond to a given template](https://dev.to/andreisfedotov/shell-script-that-finds-all-files-which-correspond-to-a-given-template-57di)
 - [Back to 1969 or Introduction to Ed - old-school text editor](https://dev.to/andreisfedotov/back-to-1969-or-introduction-to-ed-old-school-text-editor-ffo)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="left"> <a href="https://twitter.com/andreisfedotov" target="blank"><img src="https://img.shields.io/twitter/follow/andreisfedotov?logo=twitter&style=for-the-badge" alt="andreisfedotov" /></a> </p>
